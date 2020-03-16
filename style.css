@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #515151;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-image: url('/assets/00043.MTS.00_07_11_24-2.jpg');
+    background-size: 111%;
+    background-position: 0% 95.6%;
+    background-repeat: no-repeat;
+}
+
+video {
+    width: auto;
+    height: 100%;
+    padding: 5px;
+    opacity: 0.95;
+}
